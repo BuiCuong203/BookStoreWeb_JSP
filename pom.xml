@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <name>BookStoreWeb</name>
   <description>BookStoreWeb</description>
-  <dependencies> 
+  <dependencies>
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
